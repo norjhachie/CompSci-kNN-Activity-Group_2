@@ -1,4 +1,4 @@
-# CompSci-kNN-Activity-Group_2
+# CompSci-kNN-Activity-Group_2-Guleng_Rico_Hadjinor
 
 ## Analysis and Reflection 
 Strengths of KNN
