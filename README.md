@@ -9,6 +9,7 @@ KNN becomes slow when the dataset is large because it must compute the distance 
 
 ## When KNN Is and Is Not a Good Choice
 Use KNN when:
+
 •	The dataset is small or medium in size.
 
 •	You need a simple model to start with before trying more complex ones.
